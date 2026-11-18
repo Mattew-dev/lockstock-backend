@@ -8,5 +8,5 @@ Web-app che simula una borsa (paper trading, senza denaro reale):
 
 ## Tecnologie
 
-Backend con Spring Boot (Spring Data JPA e MySQL), esposto tramite servizi REST
-Frontend in Angular (successivamente nel repo: lockstock-frontend)
+- Backend con Spring Boot (Spring Data JPA e MySQL), esposto tramite servizi REST
+- Frontend in Angular (successivamente nel repo: lockstock-frontend)
